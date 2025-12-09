@@ -16,7 +16,7 @@ int main(){
         }
     i++;
 }
-    cout << "#Even numbers = " << even;
+    cout << "#Even numbers = " << even << "\n";
     cout << "#Odd numbers = " << odd;
     return 0;
 }
